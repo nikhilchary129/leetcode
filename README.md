@@ -25,10 +25,12 @@
 ## Tree
 |  |
 | ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/nikhilchary129/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1254-deepest-leaves-sum](https://github.com/nikhilchary129/leetcode/tree/master/1254-deepest-leaves-sum) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/nikhilchary129/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1254-deepest-leaves-sum](https://github.com/nikhilchary129/leetcode/tree/master/1254-deepest-leaves-sum) |
 ## Breadth-First Search
 |  |
@@ -38,4 +40,8 @@
 |  |
 | ------- |
 | [1254-deepest-leaves-sum](https://github.com/nikhilchary129/leetcode/tree/master/1254-deepest-leaves-sum) |
+## Stack
+|  |
+| ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/nikhilchary129/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
