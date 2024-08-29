@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/nikhilchary129/leetcode/tree/master/1240-stone-game-ii) |
+| [3494-minimum-cost-for-cutting-cake-i](https://github.com/nikhilchary129/leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 ## Math
 |  |
 | ------- |
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/nikhilchary129/leetcode/tree/master/1240-stone-game-ii) |
+| [3494-minimum-cost-for-cutting-cake-i](https://github.com/nikhilchary129/leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -44,4 +46,12 @@
 |  |
 | ------- |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/nikhilchary129/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+## Greedy
+|  |
+| ------- |
+| [3494-minimum-cost-for-cutting-cake-i](https://github.com/nikhilchary129/leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
+## Sorting
+|  |
+| ------- |
+| [3494-minimum-cost-for-cutting-cake-i](https://github.com/nikhilchary129/leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 <!---LeetCode Topics End-->
