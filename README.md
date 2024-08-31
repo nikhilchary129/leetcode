@@ -10,6 +10,7 @@
 | [3519-find-the-number-of-winning-players](https://github.com/nikhilchary129/leetcode/tree/master/3519-find-the-number-of-winning-players) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/nikhilchary129/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/nikhilchary129/leetcode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
+| [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/nikhilchary129/leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Math
 |  |
 | ------- |
@@ -70,4 +71,12 @@
 |  |
 | ------- |
 | [3519-find-the-number-of-winning-players](https://github.com/nikhilchary129/leetcode/tree/master/3519-find-the-number-of-winning-players) |
+## Two Pointers
+|  |
+| ------- |
+| [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/nikhilchary129/leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+## Matrix
+|  |
+| ------- |
+| [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/nikhilchary129/leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 <!---LeetCode Topics End-->
