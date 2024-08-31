@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/nikhilchary129/leetcode/tree/master/1240-stone-game-ii) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/nikhilchary129/leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/nikhilchary129/leetcode/tree/master/1240-stone-game-ii) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/nikhilchary129/leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Tree
 |  |
 | ------- |
@@ -79,4 +81,8 @@
 |  |
 | ------- |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/nikhilchary129/leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+## Simulation
+|  |
+| ------- |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/nikhilchary129/leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
