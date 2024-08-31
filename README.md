@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/nikhilchary129/leetcode/tree/master/1240-stone-game-ii) |
+| [3264-maximum-points-after-enemy-battles](https://github.com/nikhilchary129/leetcode/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/nikhilchary129/leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3519-find-the-number-of-winning-players](https://github.com/nikhilchary129/leetcode/tree/master/3519-find-the-number-of-winning-players) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/nikhilchary129/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/nikhilchary129/leetcode/tree/master/3230-remove-adjacent-almost-equal-characters) |
+| [3264-maximum-points-after-enemy-battles](https://github.com/nikhilchary129/leetcode/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/nikhilchary129/leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 ## Sorting
 |  |
