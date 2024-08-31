@@ -7,6 +7,7 @@
 | ------- |
 | [1240-stone-game-ii](https://github.com/nikhilchary129/leetcode/tree/master/1240-stone-game-ii) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/nikhilchary129/leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
+| [3519-find-the-number-of-winning-players](https://github.com/nikhilchary129/leetcode/tree/master/3519-find-the-number-of-winning-players) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/nikhilchary129/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/nikhilchary129/leetcode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 ## Math
@@ -61,4 +62,12 @@
 | ------- |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/nikhilchary129/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/nikhilchary129/leetcode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
+## Hash Table
+|  |
+| ------- |
+| [3519-find-the-number-of-winning-players](https://github.com/nikhilchary129/leetcode/tree/master/3519-find-the-number-of-winning-players) |
+## Counting
+|  |
+| ------- |
+| [3519-find-the-number-of-winning-players](https://github.com/nikhilchary129/leetcode/tree/master/3519-find-the-number-of-winning-players) |
 <!---LeetCode Topics End-->
