@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/nikhilchary129/leetcode/tree/master/1240-stone-game-ii) |
+| [3230-remove-adjacent-almost-equal-characters](https://github.com/nikhilchary129/leetcode/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/nikhilchary129/leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 ## Prefix Sum
 |  |
@@ -55,6 +56,7 @@
 ## Greedy
 |  |
 | ------- |
+| [3230-remove-adjacent-almost-equal-characters](https://github.com/nikhilchary129/leetcode/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/nikhilchary129/leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 ## Sorting
 |  |
@@ -90,5 +92,6 @@
 ## String
 |  |
 | ------- |
+| [3230-remove-adjacent-almost-equal-characters](https://github.com/nikhilchary129/leetcode/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/nikhilchary129/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 <!---LeetCode Topics End-->
