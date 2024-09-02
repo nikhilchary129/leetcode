@@ -7,6 +7,7 @@
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/nikhilchary129/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0354-russian-doll-envelopes](https://github.com/nikhilchary129/leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0384-shuffle-an-array](https://github.com/nikhilchary129/leetcode/tree/master/0384-shuffle-an-array) |
 | [1240-stone-game-ii](https://github.com/nikhilchary129/leetcode/tree/master/1240-stone-game-ii) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/nikhilchary129/leetcode/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3483-alternating-groups-ii](https://github.com/nikhilchary129/leetcode/tree/master/3483-alternating-groups-ii) |
@@ -18,6 +19,7 @@
 ## Math
 |  |
 | ------- |
+| [0384-shuffle-an-array](https://github.com/nikhilchary129/leetcode/tree/master/0384-shuffle-an-array) |
 | [1240-stone-game-ii](https://github.com/nikhilchary129/leetcode/tree/master/1240-stone-game-ii) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/nikhilchary129/leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Dynamic Programming
@@ -116,4 +118,8 @@
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/nikhilchary129/leetcode/tree/master/0354-russian-doll-envelopes) |
+## Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/nikhilchary129/leetcode/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
