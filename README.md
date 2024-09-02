@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/nikhilchary129/leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0354-russian-doll-envelopes](https://github.com/nikhilchary129/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [1240-stone-game-ii](https://github.com/nikhilchary129/leetcode/tree/master/1240-stone-game-ii) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/nikhilchary129/leetcode/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3483-alternating-groups-ii](https://github.com/nikhilchary129/leetcode/tree/master/3483-alternating-groups-ii) |
@@ -22,6 +23,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0354-russian-doll-envelopes](https://github.com/nikhilchary129/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [1240-stone-game-ii](https://github.com/nikhilchary129/leetcode/tree/master/1240-stone-game-ii) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/nikhilchary129/leetcode/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/nikhilchary129/leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
@@ -66,6 +68,7 @@
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/nikhilchary129/leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0354-russian-doll-envelopes](https://github.com/nikhilchary129/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/nikhilchary129/leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 ## Sliding Window
 |  |
@@ -109,4 +112,8 @@
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/nikhilchary129/leetcode/tree/master/0220-contains-duplicate-iii) |
+## Binary Search
+|  |
+| ------- |
+| [0354-russian-doll-envelopes](https://github.com/nikhilchary129/leetcode/tree/master/0354-russian-doll-envelopes) |
 <!---LeetCode Topics End-->
