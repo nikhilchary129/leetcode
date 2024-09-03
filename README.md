@@ -105,10 +105,12 @@
 | ------- |
 | [1195-distribute-candies-to-people](https://github.com/nikhilchary129/leetcode/tree/master/1195-distribute-candies-to-people) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nikhilchary129/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/nikhilchary129/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/nikhilchary129/leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## String
 |  |
 | ------- |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/nikhilchary129/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/nikhilchary129/leetcode/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/nikhilchary129/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Bucket Sort
