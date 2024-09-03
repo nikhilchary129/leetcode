@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/nikhilchary129/leetcode/tree/master/0384-shuffle-an-array) |
+| [1195-distribute-candies-to-people](https://github.com/nikhilchary129/leetcode/tree/master/1195-distribute-candies-to-people) |
 | [1240-stone-game-ii](https://github.com/nikhilchary129/leetcode/tree/master/1240-stone-game-ii) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/nikhilchary129/leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Dynamic Programming
@@ -102,6 +103,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1195-distribute-candies-to-people](https://github.com/nikhilchary129/leetcode/tree/master/1195-distribute-candies-to-people) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nikhilchary129/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/nikhilchary129/leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## String
