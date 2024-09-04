@@ -106,6 +106,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/nikhilchary129/leetcode/tree/master/0165-compare-version-numbers) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/nikhilchary129/leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Matrix
 |  |
@@ -124,6 +125,7 @@
 ## String
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/nikhilchary129/leetcode/tree/master/0165-compare-version-numbers) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/nikhilchary129/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/nikhilchary129/leetcode/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/nikhilchary129/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
