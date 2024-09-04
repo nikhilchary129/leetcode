@@ -76,6 +76,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1880-largest-merge-of-two-strings](https://github.com/nikhilchary129/leetcode/tree/master/1880-largest-merge-of-two-strings) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/nikhilchary129/leetcode/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/nikhilchary129/leetcode/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/nikhilchary129/leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/nikhilchary129/leetcode/tree/master/0165-compare-version-numbers) |
+| [1880-largest-merge-of-two-strings](https://github.com/nikhilchary129/leetcode/tree/master/1880-largest-merge-of-two-strings) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/nikhilchary129/leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Matrix
 |  |
@@ -126,6 +128,7 @@
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/nikhilchary129/leetcode/tree/master/0165-compare-version-numbers) |
+| [1880-largest-merge-of-two-strings](https://github.com/nikhilchary129/leetcode/tree/master/1880-largest-merge-of-two-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/nikhilchary129/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/nikhilchary129/leetcode/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/nikhilchary129/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
