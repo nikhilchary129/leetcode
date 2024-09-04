@@ -12,6 +12,7 @@
 | [0909-stone-game](https://github.com/nikhilchary129/leetcode/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/nikhilchary129/leetcode/tree/master/1240-stone-game-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nikhilchary129/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/nikhilchary129/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/nikhilchary129/leetcode/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3483-alternating-groups-ii](https://github.com/nikhilchary129/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/nikhilchary129/leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
@@ -109,6 +110,7 @@
 ## Matrix
 |  |
 | ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/nikhilchary129/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/nikhilchary129/leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Simulation
 |  |
@@ -117,6 +119,7 @@
 | [1195-distribute-candies-to-people](https://github.com/nikhilchary129/leetcode/tree/master/1195-distribute-candies-to-people) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nikhilchary129/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/nikhilchary129/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/nikhilchary129/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/nikhilchary129/leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## String
 |  |
