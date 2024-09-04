@@ -8,6 +8,7 @@
 | [0220-contains-duplicate-iii](https://github.com/nikhilchary129/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0354-russian-doll-envelopes](https://github.com/nikhilchary129/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0384-shuffle-an-array](https://github.com/nikhilchary129/leetcode/tree/master/0384-shuffle-an-array) |
+| [0906-walking-robot-simulation](https://github.com/nikhilchary129/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0909-stone-game](https://github.com/nikhilchary129/leetcode/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/nikhilchary129/leetcode/tree/master/1240-stone-game-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nikhilchary129/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -93,6 +94,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/nikhilchary129/leetcode/tree/master/0906-walking-robot-simulation) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/nikhilchary129/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3519-find-the-number-of-winning-players](https://github.com/nikhilchary129/leetcode/tree/master/3519-find-the-number-of-winning-players) |
 ## Counting
@@ -111,6 +113,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/nikhilchary129/leetcode/tree/master/0906-walking-robot-simulation) |
 | [1195-distribute-candies-to-people](https://github.com/nikhilchary129/leetcode/tree/master/1195-distribute-candies-to-people) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nikhilchary129/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/nikhilchary129/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
