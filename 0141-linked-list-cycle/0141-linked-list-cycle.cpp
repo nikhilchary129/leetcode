@@ -8,15 +8,16 @@
  */
 class Solution {
 public:
-    bool hasCycle(ListNode *head) {
-        if(head->next==nullptr)return 0;
-        auto slow=head,fast=head->next;
-        while(fast && fast->next){
-            if(fast==slow)return 1;
+   bool hasCycle(ListNode *head) {
+        if(head==nullptr || head->next==nullptr || head->next->next==nullptr ) return false;
+        ListNode *slow=head,*fast=head->next->next;
+
+        while(fast!=nullptr && fast->next!=nullptr){ 
+            if(slow==fast) return true;
             slow=slow->next;
             fast=fast->next->next;
         }
+        return false;
 
-        return 0;
     }
 };
