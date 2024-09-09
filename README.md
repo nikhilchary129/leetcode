@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/nikhilchary129/leetcode/tree/master/0015-3sum) |
+| [0039-combination-sum](https://github.com/nikhilchary129/leetcode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/nikhilchary129/leetcode/tree/master/0053-maximum-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nikhilchary129/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/nikhilchary129/leetcode/tree/master/0162-find-peak-element) |
@@ -183,4 +184,8 @@
 |  |
 | ------- |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/nikhilchary129/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/nikhilchary129/leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
