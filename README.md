@@ -19,6 +19,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/nikhilchary129/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/nikhilchary129/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/nikhilchary129/leetcode/tree/master/3264-maximum-points-after-enemy-battles) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/nikhilchary129/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3483-alternating-groups-ii](https://github.com/nikhilchary129/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/nikhilchary129/leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3519-find-the-number-of-winning-players](https://github.com/nikhilchary129/leetcode/tree/master/3519-find-the-number-of-winning-players) |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0906-walking-robot-simulation](https://github.com/nikhilchary129/leetcode/tree/master/0906-walking-robot-simulation) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/nikhilchary129/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/nikhilchary129/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3519-find-the-number-of-winning-players](https://github.com/nikhilchary129/leetcode/tree/master/3519-find-the-number-of-winning-players) |
 ## Counting
@@ -169,4 +171,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/nikhilchary129/leetcode/tree/master/0053-maximum-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/nikhilchary129/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 <!---LeetCode Topics End-->
