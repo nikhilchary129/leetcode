@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/nikhilchary129/leetcode/tree/master/0015-3sum) |
+| [0053-maximum-subarray](https://github.com/nikhilchary129/leetcode/tree/master/0053-maximum-subarray) |
 | [0220-contains-duplicate-iii](https://github.com/nikhilchary129/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0354-russian-doll-envelopes](https://github.com/nikhilchary129/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0384-shuffle-an-array](https://github.com/nikhilchary129/leetcode/tree/master/0384-shuffle-an-array) |
@@ -33,6 +34,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/nikhilchary129/leetcode/tree/master/0053-maximum-subarray) |
 | [0354-russian-doll-envelopes](https://github.com/nikhilchary129/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0909-stone-game](https://github.com/nikhilchary129/leetcode/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/nikhilchary129/leetcode/tree/master/1240-stone-game-ii) |
@@ -159,4 +161,8 @@
 |  |
 | ------- |
 | [2411-spiral-matrix-iv](https://github.com/nikhilchary129/leetcode/tree/master/2411-spiral-matrix-iv) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/nikhilchary129/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
