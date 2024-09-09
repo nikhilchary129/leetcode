@@ -1,26 +1,26 @@
 class Solution {
 public:
-set<vector<int>> ans;
-    void rec(int curr,int target,int index,vector<int>vec,vector<int>candidates){
-        if(index>candidates.size()-1)return;
-        if(curr>target)return;
-        if(curr==target){
-            ans.insert(vec);
+    vector<vector<int>> ans;
+    int tar = 0;
+
+    void sub(vector<int>& cad, int i, vector<int>& curr, int sum) {
+        if (sum == tar) {
+            ans.push_back(curr);
             return;
         }
-         rec(curr,target,index+1,vec,candidates); 
-         vec.push_back(candidates[index]);
-
-        rec(curr+candidates[index],target,index,vec,candidates);
-        rec(curr+candidates[index],target,index+1,vec,candidates);
-             
-        
-
+        if (sum > tar || i == cad.size()) {
+            return;
+        }
+        curr.push_back(cad[i]);
+        sub(cad, i, curr, sum + cad[i]);
+        curr.pop_back(); 
+        sub(cad, i + 1, curr, sum);
     }
-    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        vector<int>vec;
-            rec(0,target,0,vec,candidates);
-            vector<vector<int>>temp(ans.begin(),ans.end());
-            return temp;
+
+    vector<vector<int>> combinationSum(vector<int>& cad, int target) {
+        tar = target;
+        vector<int> current;
+        sub(cad, 0, current, 0);
+        return ans;
     }
 };
