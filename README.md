@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/nikhilchary129/leetcode/tree/master/0015-3sum) |
 | [0220-contains-duplicate-iii](https://github.com/nikhilchary129/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0354-russian-doll-envelopes](https://github.com/nikhilchary129/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0384-shuffle-an-array](https://github.com/nikhilchary129/leetcode/tree/master/0384-shuffle-an-array) |
@@ -84,6 +85,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/nikhilchary129/leetcode/tree/master/0015-3sum) |
 | [0220-contains-duplicate-iii](https://github.com/nikhilchary129/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0354-russian-doll-envelopes](https://github.com/nikhilchary129/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/nikhilchary129/leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
@@ -108,6 +110,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/nikhilchary129/leetcode/tree/master/0015-3sum) |
 | [0165-compare-version-numbers](https://github.com/nikhilchary129/leetcode/tree/master/0165-compare-version-numbers) |
 | [1880-largest-merge-of-two-strings](https://github.com/nikhilchary129/leetcode/tree/master/1880-largest-merge-of-two-strings) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/nikhilchary129/leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
