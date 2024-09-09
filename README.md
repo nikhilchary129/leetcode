@@ -188,4 +188,8 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/nikhilchary129/leetcode/tree/master/0039-combination-sum) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/nikhilchary129/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
