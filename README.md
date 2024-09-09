@@ -105,6 +105,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/nikhilchary129/leetcode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/nikhilchary129/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0906-walking-robot-simulation](https://github.com/nikhilchary129/leetcode/tree/master/0906-walking-robot-simulation) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/nikhilchary129/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/nikhilchary129/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -120,6 +121,7 @@
 | [0015-3sum](https://github.com/nikhilchary129/leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nikhilchary129/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/nikhilchary129/leetcode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/nikhilchary129/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/nikhilchary129/leetcode/tree/master/0165-compare-version-numbers) |
 | [1880-largest-merge-of-two-strings](https://github.com/nikhilchary129/leetcode/tree/master/1880-largest-merge-of-two-strings) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/nikhilchary129/leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
@@ -171,6 +173,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nikhilchary129/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/nikhilchary129/leetcode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/nikhilchary129/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [2411-spiral-matrix-iv](https://github.com/nikhilchary129/leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Divide and Conquer
 |  |
