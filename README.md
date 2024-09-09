@@ -118,6 +118,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/nikhilchary129/leetcode/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/nikhilchary129/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/nikhilchary129/leetcode/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/nikhilchary129/leetcode/tree/master/0165-compare-version-numbers) |
 | [1880-largest-merge-of-two-strings](https://github.com/nikhilchary129/leetcode/tree/master/1880-largest-merge-of-two-strings) |
@@ -168,6 +169,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/nikhilchary129/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/nikhilchary129/leetcode/tree/master/0141-linked-list-cycle) |
 | [2411-spiral-matrix-iv](https://github.com/nikhilchary129/leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Divide and Conquer
