@@ -18,6 +18,7 @@
 | [0354-russian-doll-envelopes](https://github.com/nikhilchary129/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0384-shuffle-an-array](https://github.com/nikhilchary129/leetcode/tree/master/0384-shuffle-an-array) |
 | [0413-arithmetic-slices](https://github.com/nikhilchary129/leetcode/tree/master/0413-arithmetic-slices) |
+| [0435-non-overlapping-intervals](https://github.com/nikhilchary129/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0906-walking-robot-simulation](https://github.com/nikhilchary129/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0909-stone-game](https://github.com/nikhilchary129/leetcode/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/nikhilchary129/leetcode/tree/master/1240-stone-game-ii) |
@@ -58,6 +59,7 @@
 | [0354-russian-doll-envelopes](https://github.com/nikhilchary129/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/nikhilchary129/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0413-arithmetic-slices](https://github.com/nikhilchary129/leetcode/tree/master/0413-arithmetic-slices) |
+| [0435-non-overlapping-intervals](https://github.com/nikhilchary129/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0909-stone-game](https://github.com/nikhilchary129/leetcode/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/nikhilchary129/leetcode/tree/master/1240-stone-game-ii) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/nikhilchary129/leetcode/tree/master/3230-remove-adjacent-almost-equal-characters) |
@@ -105,6 +107,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nikhilchary129/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/nikhilchary129/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1880-largest-merge-of-two-strings](https://github.com/nikhilchary129/leetcode/tree/master/1880-largest-merge-of-two-strings) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/nikhilchary129/leetcode/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/nikhilchary129/leetcode/tree/master/3264-maximum-points-after-enemy-battles) |
@@ -115,6 +118,7 @@
 | [0015-3sum](https://github.com/nikhilchary129/leetcode/tree/master/0015-3sum) |
 | [0220-contains-duplicate-iii](https://github.com/nikhilchary129/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0354-russian-doll-envelopes](https://github.com/nikhilchary129/leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0435-non-overlapping-intervals](https://github.com/nikhilchary129/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/nikhilchary129/leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 ## Sliding Window
 |  |
