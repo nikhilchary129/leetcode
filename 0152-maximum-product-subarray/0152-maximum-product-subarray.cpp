@@ -13,6 +13,7 @@ public:
             miner = max({nums[i], miner * nums[i], maxer * nums[i]});   
             maxer = min({nums[i], temp * nums[i], maxer * nums[i]});
             ans = max({ans, miner,maxer});
+            swap(miner,maxer);
         }
         return ans;
     }
