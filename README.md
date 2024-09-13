@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/nikhilchary129/leetcode/tree/master/0264-ugly-number-ii) |
+| [0343-integer-break](https://github.com/nikhilchary129/leetcode/tree/master/0343-integer-break) |
 | [0384-shuffle-an-array](https://github.com/nikhilchary129/leetcode/tree/master/0384-shuffle-an-array) |
 | [0909-stone-game](https://github.com/nikhilchary129/leetcode/tree/master/0909-stone-game) |
 | [1195-distribute-candies-to-people](https://github.com/nikhilchary129/leetcode/tree/master/1195-distribute-candies-to-people) |
@@ -49,6 +50,7 @@
 | [0152-maximum-product-subarray](https://github.com/nikhilchary129/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/nikhilchary129/leetcode/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/nikhilchary129/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0343-integer-break](https://github.com/nikhilchary129/leetcode/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/nikhilchary129/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0909-stone-game](https://github.com/nikhilchary129/leetcode/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/nikhilchary129/leetcode/tree/master/1240-stone-game-ii) |
