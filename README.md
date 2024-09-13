@@ -190,6 +190,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/nikhilchary129/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/nikhilchary129/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Backtracking
 |  |
