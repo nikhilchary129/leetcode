@@ -9,6 +9,7 @@
 | [0039-combination-sum](https://github.com/nikhilchary129/leetcode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/nikhilchary129/leetcode/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nikhilchary129/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/nikhilchary129/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nikhilchary129/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/nikhilchary129/leetcode/tree/master/0162-find-peak-element) |
 | [0220-contains-duplicate-iii](https://github.com/nikhilchary129/leetcode/tree/master/0220-contains-duplicate-iii) |
@@ -43,6 +44,7 @@
 | [0072-edit-distance](https://github.com/nikhilchary129/leetcode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/nikhilchary129/leetcode/tree/master/0097-interleaving-string) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nikhilchary129/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/nikhilchary129/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0354-russian-doll-envelopes](https://github.com/nikhilchary129/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0909-stone-game](https://github.com/nikhilchary129/leetcode/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/nikhilchary129/leetcode/tree/master/1240-stone-game-ii) |
