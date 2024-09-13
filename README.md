@@ -17,6 +17,7 @@
 | [0322-coin-change](https://github.com/nikhilchary129/leetcode/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/nikhilchary129/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0384-shuffle-an-array](https://github.com/nikhilchary129/leetcode/tree/master/0384-shuffle-an-array) |
+| [0413-arithmetic-slices](https://github.com/nikhilchary129/leetcode/tree/master/0413-arithmetic-slices) |
 | [0906-walking-robot-simulation](https://github.com/nikhilchary129/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0909-stone-game](https://github.com/nikhilchary129/leetcode/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/nikhilchary129/leetcode/tree/master/1240-stone-game-ii) |
@@ -56,6 +57,7 @@
 | [0343-integer-break](https://github.com/nikhilchary129/leetcode/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/nikhilchary129/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/nikhilchary129/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0413-arithmetic-slices](https://github.com/nikhilchary129/leetcode/tree/master/0413-arithmetic-slices) |
 | [0909-stone-game](https://github.com/nikhilchary129/leetcode/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/nikhilchary129/leetcode/tree/master/1240-stone-game-ii) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/nikhilchary129/leetcode/tree/master/3230-remove-adjacent-almost-equal-characters) |
