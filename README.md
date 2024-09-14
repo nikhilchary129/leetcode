@@ -25,6 +25,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nikhilchary129/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/nikhilchary129/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/nikhilchary129/leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/nikhilchary129/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/nikhilchary129/leetcode/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/nikhilchary129/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3483-alternating-groups-ii](https://github.com/nikhilchary129/leetcode/tree/master/3483-alternating-groups-ii) |
@@ -213,6 +214,7 @@
 |  |
 | ------- |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/nikhilchary129/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/nikhilchary129/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/nikhilchary129/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Backtracking
 |  |
@@ -233,4 +235,8 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/nikhilchary129/leetcode/tree/master/0264-ugly-number-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/nikhilchary129/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
