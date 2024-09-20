@@ -23,6 +23,7 @@
 | [0909-stone-game](https://github.com/nikhilchary129/leetcode/tree/master/0909-stone-game) |
 | [1105-uncrossed-lines](https://github.com/nikhilchary129/leetcode/tree/master/1105-uncrossed-lines) |
 | [1240-stone-game-ii](https://github.com/nikhilchary129/leetcode/tree/master/1240-stone-game-ii) |
+| [1757-minimum-jumps-to-reach-home](https://github.com/nikhilchary129/leetcode/tree/master/1757-minimum-jumps-to-reach-home) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nikhilchary129/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/nikhilchary129/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/nikhilchary129/leetcode/tree/master/2411-spiral-matrix-iv) |
@@ -65,6 +66,7 @@
 | [0909-stone-game](https://github.com/nikhilchary129/leetcode/tree/master/0909-stone-game) |
 | [1105-uncrossed-lines](https://github.com/nikhilchary129/leetcode/tree/master/1105-uncrossed-lines) |
 | [1240-stone-game-ii](https://github.com/nikhilchary129/leetcode/tree/master/1240-stone-game-ii) |
+| [1757-minimum-jumps-to-reach-home](https://github.com/nikhilchary129/leetcode/tree/master/1757-minimum-jumps-to-reach-home) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/nikhilchary129/leetcode/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/nikhilchary129/leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 ## Prefix Sum
@@ -97,6 +99,7 @@
 | [0226-invert-binary-tree](https://github.com/nikhilchary129/leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/nikhilchary129/leetcode/tree/master/0322-coin-change) |
 | [1254-deepest-leaves-sum](https://github.com/nikhilchary129/leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1757-minimum-jumps-to-reach-home](https://github.com/nikhilchary129/leetcode/tree/master/1757-minimum-jumps-to-reach-home) |
 ## Binary Tree
 |  |
 | ------- |
