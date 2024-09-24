@@ -22,6 +22,7 @@
 | [0906-walking-robot-simulation](https://github.com/nikhilchary129/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0909-stone-game](https://github.com/nikhilchary129/leetcode/tree/master/0909-stone-game) |
 | [1105-uncrossed-lines](https://github.com/nikhilchary129/leetcode/tree/master/1105-uncrossed-lines) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/nikhilchary129/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1240-stone-game-ii](https://github.com/nikhilchary129/leetcode/tree/master/1240-stone-game-ii) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/nikhilchary129/leetcode/tree/master/1757-minimum-jumps-to-reach-home) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nikhilchary129/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -67,6 +68,7 @@
 | [0909-stone-game](https://github.com/nikhilchary129/leetcode/tree/master/0909-stone-game) |
 | [0972-knight-dialer](https://github.com/nikhilchary129/leetcode/tree/master/0972-knight-dialer) |
 | [1105-uncrossed-lines](https://github.com/nikhilchary129/leetcode/tree/master/1105-uncrossed-lines) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/nikhilchary129/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1240-stone-game-ii](https://github.com/nikhilchary129/leetcode/tree/master/1240-stone-game-ii) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/nikhilchary129/leetcode/tree/master/1757-minimum-jumps-to-reach-home) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/nikhilchary129/leetcode/tree/master/3230-remove-adjacent-almost-equal-characters) |
