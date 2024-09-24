@@ -65,6 +65,7 @@
 | [0413-arithmetic-slices](https://github.com/nikhilchary129/leetcode/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/nikhilchary129/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0909-stone-game](https://github.com/nikhilchary129/leetcode/tree/master/0909-stone-game) |
+| [0972-knight-dialer](https://github.com/nikhilchary129/leetcode/tree/master/0972-knight-dialer) |
 | [1105-uncrossed-lines](https://github.com/nikhilchary129/leetcode/tree/master/1105-uncrossed-lines) |
 | [1240-stone-game-ii](https://github.com/nikhilchary129/leetcode/tree/master/1240-stone-game-ii) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/nikhilchary129/leetcode/tree/master/1757-minimum-jumps-to-reach-home) |
