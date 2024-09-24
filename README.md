@@ -24,6 +24,7 @@
 | [1105-uncrossed-lines](https://github.com/nikhilchary129/leetcode/tree/master/1105-uncrossed-lines) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/nikhilchary129/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1240-stone-game-ii](https://github.com/nikhilchary129/leetcode/tree/master/1240-stone-game-ii) |
+| [1418-fair-distribution-of-cookies](https://github.com/nikhilchary129/leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/nikhilchary129/leetcode/tree/master/1757-minimum-jumps-to-reach-home) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nikhilchary129/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/nikhilchary129/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -70,6 +71,7 @@
 | [1105-uncrossed-lines](https://github.com/nikhilchary129/leetcode/tree/master/1105-uncrossed-lines) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/nikhilchary129/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1240-stone-game-ii](https://github.com/nikhilchary129/leetcode/tree/master/1240-stone-game-ii) |
+| [1418-fair-distribution-of-cookies](https://github.com/nikhilchary129/leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/nikhilchary129/leetcode/tree/master/1757-minimum-jumps-to-reach-home) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/nikhilchary129/leetcode/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/nikhilchary129/leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
@@ -224,6 +226,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1418-fair-distribution-of-cookies](https://github.com/nikhilchary129/leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/nikhilchary129/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/nikhilchary129/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/nikhilchary129/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -231,6 +234,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/nikhilchary129/leetcode/tree/master/0039-combination-sum) |
+| [1418-fair-distribution-of-cookies](https://github.com/nikhilchary129/leetcode/tree/master/1418-fair-distribution-of-cookies) |
 ## Database
 |  |
 | ------- |
@@ -254,4 +258,8 @@
 |  |
 | ------- |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/nikhilchary129/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Bitmask
+|  |
+| ------- |
+| [1418-fair-distribution-of-cookies](https://github.com/nikhilchary129/leetcode/tree/master/1418-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
