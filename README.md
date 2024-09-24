@@ -29,6 +29,7 @@
 | [2411-spiral-matrix-iv](https://github.com/nikhilchary129/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/nikhilchary129/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/nikhilchary129/leetcode/tree/master/3264-maximum-points-after-enemy-battles) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/nikhilchary129/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/nikhilchary129/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3483-alternating-groups-ii](https://github.com/nikhilchary129/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/nikhilchary129/leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
@@ -140,6 +141,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/nikhilchary129/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0264-ugly-number-ii](https://github.com/nikhilchary129/leetcode/tree/master/0264-ugly-number-ii) |
 | [0906-walking-robot-simulation](https://github.com/nikhilchary129/leetcode/tree/master/0906-walking-robot-simulation) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/nikhilchary129/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/nikhilchary129/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/nikhilchary129/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3519-find-the-number-of-winning-players](https://github.com/nikhilchary129/leetcode/tree/master/3519-find-the-number-of-winning-players) |
@@ -183,6 +185,7 @@
 | [1880-largest-merge-of-two-strings](https://github.com/nikhilchary129/leetcode/tree/master/1880-largest-merge-of-two-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/nikhilchary129/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/nikhilchary129/leetcode/tree/master/3230-remove-adjacent-almost-equal-characters) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/nikhilchary129/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/nikhilchary129/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Bucket Sort
 |  |
@@ -244,4 +247,8 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/nikhilchary129/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Trie
+|  |
+| ------- |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/nikhilchary129/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
