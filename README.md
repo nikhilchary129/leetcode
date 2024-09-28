@@ -19,6 +19,7 @@
 | [0384-shuffle-an-array](https://github.com/nikhilchary129/leetcode/tree/master/0384-shuffle-an-array) |
 | [0413-arithmetic-slices](https://github.com/nikhilchary129/leetcode/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/nikhilchary129/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0859-design-circular-deque](https://github.com/nikhilchary129/leetcode/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/nikhilchary129/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0909-stone-game](https://github.com/nikhilchary129/leetcode/tree/master/0909-stone-game) |
 | [1105-uncrossed-lines](https://github.com/nikhilchary129/leetcode/tree/master/1105-uncrossed-lines) |
@@ -218,6 +219,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nikhilchary129/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/nikhilchary129/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nikhilchary129/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0859-design-circular-deque](https://github.com/nikhilchary129/leetcode/tree/master/0859-design-circular-deque) |
 | [2411-spiral-matrix-iv](https://github.com/nikhilchary129/leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Divide and Conquer
 |  |
@@ -262,4 +264,12 @@
 |  |
 | ------- |
 | [1418-fair-distribution-of-cookies](https://github.com/nikhilchary129/leetcode/tree/master/1418-fair-distribution-of-cookies) |
+## Design
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/nikhilchary129/leetcode/tree/master/0859-design-circular-deque) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/nikhilchary129/leetcode/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
